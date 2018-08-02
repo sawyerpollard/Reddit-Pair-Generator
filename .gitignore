@@ -109,4 +109,4 @@ bin/
 include/
 pip-selfcheck.json
 test.py
-store1/
+storage/
